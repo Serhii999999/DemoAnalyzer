@@ -1,0 +1,24 @@
+11:55:54 | INFO | FirstTest:28                             | Creating web driver configuration...
+11:55:54 | INFO | FirstTest:28                             | Creating web driver configuration...
+11:55:54 | INFO | FirstTest:28                             | Open browser...
+11:55:54 | INFO | FirstTest:28                             | Open browser...
+11:55:54 | INFO | WebDriverThreadLocalContainer:138        | No webdriver is bound to current thread: 18 - let's create a new webdriver
+11:55:54 | INFO | WebDriverThreadLocalContainer:138        | No webdriver is bound to current thread: 19 - let's create a new webdriver
+11:55:54 | INFO | FileHelper:56                            | Creating folder: C:\Users\user\IdeaProjects\DemoAnalyzer\build\downloads\1715072154730_16064_19
+11:55:54 | INFO | FileHelper:56                            | Creating folder: C:\Users\user\IdeaProjects\DemoAnalyzer\build\downloads\1715072154730_16064_18
+11:55:55 | ERROR | HttpClient:152                           | Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124
+11:55:55 | WARN | VersionDetector:159                      | Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124)
+11:55:55 | INFO | WebDriverManager:662                     | Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+11:55:56 | ERROR | HttpClient:152                           | Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124
+11:55:56 | WARN | VersionDetector:159                      | Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_124)
+11:55:56 | INFO | WebDriverManager:662                     | Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+11:55:57 | INFO | TestListener:19                          | STARTED test: test123
+11:55:57 | ERROR | TestListener:36                          | SKIPPED test: test123
+11:55:57 | WARN | ScreenShotLaboratory:528                 | Cannot take screenshot because browser is not started
+11:55:57 | ERROR | TestListener:29                          | FAILED test: test123
+11:55:57 | WARN | ScreenShotLaboratory:528                 | Cannot take screenshot because browser is not started
+11:55:57 | INFO | TestListener:19                          | STARTED test: verifyFirst
+11:55:57 | ERROR | TestListener:36                          | SKIPPED test: verifyFirst
+11:55:57 | WARN | ScreenShotLaboratory:528                 | Cannot take screenshot because browser is not started
+11:55:57 | ERROR | TestListener:29                          | FAILED test: verifyFirst
+11:55:57 | WARN | ScreenShotLaboratory:528                 | Cannot take screenshot because browser is not started
